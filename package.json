@@ -1,0 +1,16 @@
+{
+  "name": "lesson-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Zohrab Simonyan",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "lodash": "^4.17.21"
+  }
+}
