@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js",
+    "dev:start": "nodemon app.js"
   },
   "author": "Zohrab Simonyan",
   "license": "ISC",
